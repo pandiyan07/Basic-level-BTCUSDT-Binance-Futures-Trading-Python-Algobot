@@ -1,4 +1,4 @@
-# 🚀 BTCUSDT Binance Futures Trading Bot
+# 🚀 BTCUSDT Binance Futures Trading Python Algbot
 
 A Python-based **Binance USDT-M Futures Trading Bot** that automates cryptocurrency trading using an **Exponential Moving Average (EMA) crossover strategy**.
 
