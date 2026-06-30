@@ -1,4 +1,10 @@
+flask==2.3.2
+gunicorn==20.1.0
+apscheduler==3.9.0
 pandas
 pandas-ta
 python-dotenv
-binance-connector
+binance-futures-connector
+requests==2.32.3
+pytz
+numpy==1.26.1
